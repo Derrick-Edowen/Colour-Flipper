@@ -1,8 +1,8 @@
-# Color Flipper App
+# Colour Flipper App
 
 ## Description
 
-A simple web application that generates random background colors when the buttonis clicked. Contains a simple and complex page. Simple, random cycles through a set of basic colours. Complex uses hex colours to generate random colours.
+A simple web application that generates random background colours when the button is clicked. Contains a simple and complex page. Simple, random cycles through a set of basic colours. Complex uses hex colours to generate random colours.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ A simple web application that generates random background colors when the button
 
 ## Demo
 
-
+You can try the live demo of the Colour Flipper App [here](https://derrick-edowen.github.io/Colour-Flipper/).
 
 ## Features
 
